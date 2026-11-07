@@ -1,0 +1,14 @@
+{
+  "environment": {
+    "qcc": null,
+    "environment_directories_present": {
+      "QNX_HOST": false,
+      "QNX_TARGET": false
+    },
+    "ready_for_build_attempt": false,
+    "next_step": "Load the SDP 8.0 qnxsdp-env.sh environment, then build. SDK version is enforced by the probe compile guard."
+  },
+  "build_verified": false,
+  "runtime_verified": false,
+  "generated_utc": "2026-11-07T10:24:05.882676+00:00"
+}
